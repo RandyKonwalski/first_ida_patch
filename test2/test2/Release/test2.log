@@ -1,0 +1,8 @@
+﻿  Quelle.cpp
+c:\projects\development\first_ida_patch\test2\test2\quelle.cpp(6): warning C4326: Der Rückgabetyp von "main" sollte "int" und nicht "void" sein
+  Code wird generiert.
+  109 of 113 functions (96.5%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Codegenerierung ist abgeschlossen.
+  test2.vcxproj -> C:\Projects\Development\first_ida_patch\test2\Release\test2.exe
